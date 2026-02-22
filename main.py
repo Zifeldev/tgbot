@@ -9,7 +9,7 @@ from aiogram.types import Message, LabeledPrice, PreCheckoutQuery
 from aiogram.filters import Command
 from aiogram.enums import ContentType
 
-from config import BOT_TOKEN, PAYMENT_PROVIDER_TOKEN, GROUP_ID
+BOT_TOKEN = "7729444914:AAGdmkSMrr2SH0pVzej1ERRDTqGmbIaUh6k"
 
 logging.basicConfig(level=logging.INFO)
 
