@@ -10,6 +10,8 @@ from aiogram.filters import Command
 from aiogram.enums import ContentType
 
 BOT_TOKEN = "7729444914:AAGdmkSMrr2SH0pVzej1ERRDTqGmbIaUh6k"
+PAYMENT_PROVIDER_TOKEN = "381764678:TEST:380f3c9b-1e5c-4a7d-8b0e-9c8a1b2c3d4e"  # Замените на ваш PAYMENT_PROVIDER_TOKEN
+GROUP_ID = -1001234567890  # Замените на ваш GROUP_ID
 
 logging.basicConfig(level=logging.INFO)
 
